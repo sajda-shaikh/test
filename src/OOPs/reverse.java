@@ -13,7 +13,6 @@ public class reverse {
 	        System.out.print("Enter a string: ");
 	        System.out.print("Enter a string2: ");
 
-	        System.out.print("Enter a string3: ");
 
 	        String input = scanner.nextLine();
         String reversed = new StringBuilder(input).reverse().toString();
