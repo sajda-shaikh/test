@@ -11,6 +11,10 @@ public class reverse {
 
 	        // Take input from user
 	        System.out.print("Enter a string: ");
+	        System.out.print("Enter a string2: ");
+
+	        System.out.print("Enter a string3: ");
+
 	        String input = scanner.nextLine();
         String reversed = new StringBuilder(input).reverse().toString();
         System.out.println("Reversed: " + reversed);
