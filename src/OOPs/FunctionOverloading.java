@@ -11,6 +11,9 @@ public class FunctionOverloading {
 		int areaRectangle = f.area(4, 2);
 		System.out.println(areaSquare);
 		System.out.println(areaRectangle);
+		System.out.println(areaRectangle);
+		System.out.println(areaRectangle);
+		System.out.println(areaRectangle);
 
 		
 	}
