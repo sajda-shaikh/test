@@ -13,7 +13,6 @@ public class FunctionOverloading {
 		System.out.println(areaRectangle);
 		System.out.println(areaRectangle);
 		System.out.println(areaRectangle);
-		System.out.println(areaRectangle);
 
 		
 	}
